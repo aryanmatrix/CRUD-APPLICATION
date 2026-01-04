@@ -1,0 +1,22 @@
+{
+  "name": "university-management-system",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel src/index.html --no-cache",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "parcel": "^2.16.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-router-dom": "^6.30.2"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3"
+  }
+}
